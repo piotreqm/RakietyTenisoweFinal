@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Dobór owijki tenisowej.";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+
+    <hgroup class="title">
+        <h1>@ViewBag.Title</h1>
+    </hgroup>
+
+    @using (Html.BeginForm("StartGripQuestion", "QuestionsGrip"))
+    {
+        <p align="left" style="padding-left: 20%; padding-top: 15px">
+            <input type="submit" name="start" value="Rozpocznij"/>
+        </p>
+    }
+</section>
+

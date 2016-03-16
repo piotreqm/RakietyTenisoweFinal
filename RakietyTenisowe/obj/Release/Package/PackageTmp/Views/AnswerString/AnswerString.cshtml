@@ -1,0 +1,51 @@
+﻿@model IEnumerable<RakietyTenisowe.Models.Naciag>
+@{
+    ViewBag.Title = "Odpowiedź - naciągi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+
+    <h1> Owijki tenisowe odpowiednie dla twojego doświadczenia:</h1>
+    <br />
+
+    <table style="width: 80%; padding-left: 10%; padding-right: 10%">
+        <tr>
+            <th>
+                Nazwa
+            </th>
+            <th>
+                Typ
+            </th>
+            <th>
+                Grubość
+            </th>
+            <th style="text-align: center">
+                Zdjęcie
+            </th>
+            <th>
+                Cena
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nazwa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Typ)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grubosc)mm
+                </td>
+                <td style="text-align: center">
+                    <img src="@Url.Content(item.Zdjecie)" alt="Alternate Text" style="height: 250px; width: 250px" />
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.Cena)
+                </td>
+            </tr>
+        }
+    </table>
+</section>

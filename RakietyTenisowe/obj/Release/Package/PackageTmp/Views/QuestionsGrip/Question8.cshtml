@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Pytanie 8";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+
+    <h1>Co jest dla Ciebie ważniejsze?</h1><br />
+
+    @using (Html.BeginForm("Question8", "QuestionsGrip"))
+    {
+        @Html.RadioButton("answer", "Feel")
+        <span>Czucie (pewność uderzenia)</span>
+        <br/>
+
+        @Html.RadioButton("answer", "Comfort")
+        <span>Komfort (pewność chwytu)</span>
+        <br/>
+        @Html.RadioButton("answer", "Absorbent")
+        <span>Absorbcja potu</span>
+        <br/>
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie"/>
+
+        </p>
+    }
+</section>

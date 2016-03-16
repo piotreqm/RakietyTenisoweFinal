@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Pytanie 6";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>Wolisz:</h1><br />
+
+    @using (Html.BeginForm("Question6", "QuestionsRacquet"))
+    {
+
+        @Html.RadioButton("answer", ">")
+        <span>Nadać piłce więcej dynamiki i rotacji</span>
+        <br />
+
+        @Html.RadioButton("answer", "<")
+        <span>Kontrolę, czucie i dłuższą żywotność naciągu </span>
+        <br />
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+        </p>
+    }
+</section>

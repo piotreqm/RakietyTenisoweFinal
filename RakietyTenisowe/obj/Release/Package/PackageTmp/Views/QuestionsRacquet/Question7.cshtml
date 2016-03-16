@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Pytanie 7";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>Wybierz swój wzrost:</h1><br />
+
+    @using (Html.BeginForm("Question7", "QuestionsRacquet"))
+    {
+
+        @Html.RadioButton("answer", 26)
+        <span>140 - 165 cm</span>
+        <br />
+
+        @Html.RadioButton("answer", 25)
+        <span>125 - 139 cm</span>
+        <br />
+
+        @Html.RadioButton("answer", 24)
+        <span>112 - 124 cm</span>
+        <br />
+
+        @Html.RadioButton("answer", 23)
+        <span>100 - 111 cm</span>
+        <br />
+
+        @Html.RadioButton("answer", 21)
+        <span>89 - 99 cm</span>
+        <br />
+
+        @Html.RadioButton("answer", 19)
+        <span>Poniżej 89 cm</span>
+        <br />
+
+        <p alsign="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+        </p>
+    }
+</section>

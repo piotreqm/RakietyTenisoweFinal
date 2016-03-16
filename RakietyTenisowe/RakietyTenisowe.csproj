@@ -26,6 +26,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>12.0</OldToolsVersion>
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -254,6 +255,7 @@
     <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.eot" />
     <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.ttf" />
     <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.woff" />
+    <None Include="Properties\PublishProfiles\tennisexpert - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="img\1.jpg" />
     <Content Include="img\2.jpg" />
@@ -309,8 +311,8 @@
     <Content Include="img\Rakiety Juniorskie\Juice Pink 21.jpg" />
     <Content Include="img\Rakiety Juniorskie\Juice Pink 23.jpg" />
     <Content Include="img\Rakiety Juniorskie\Juice Pink 25.jpg" />
-    <Content Include="img\Rakiety Juniorskie\Pro Staff 21.jpg" />
-    <Content Include="img\Rakiety Juniorskie\Pro Staff 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Pro Staff 25.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Pro Staff 26.jpg" />
     <Content Include="img\Rakiety Juniorskie\Spongebob 19.jpg" />
     <Content Include="img\Rakiety Juniorskie\Spongebob 21.jpg" />
     <Content Include="img\Rakiety Juniorskie\US Open 19.jpg" />

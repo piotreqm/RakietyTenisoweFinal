@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-RakietyTenisowe-20150423150749;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-RakietyTenisowe-20150423150749.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Doc\\INF\\\[1]\ archiwum\\Narzędzia\ sztucznej\ inteligencji\\ćwiczenia\\RakietyTenisoweFinal\\RakietyTenisowe\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="BazaWiedzy-Web.config Connection String" description="BazaWiedzy Connection String used in web.config by the application to access the database." defaultValue="BazaWiedzy_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Doc\\INF\\\[1]\ archiwum\\Narzędzia\ sztucznej\ inteligencji\\ćwiczenia\\RakietyTenisoweFinal\\RakietyTenisowe\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BazaWiedzy']/@connectionString" />
+  </parameter>
+</parameters>
