@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Pytanie 3";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>W jakim jesteś wieku?</h1><br />
+
+    @using (Html.BeginForm("Question3", "QuestionsRacquet"))
+    {
+        @Html.RadioButton("answer", "Do 8 lat")
+        <span>Do 8 lat </span>
+        <br />
+
+        @Html.RadioButton("answer", "Powyżej 8 lat")
+        <span>Powyżej 8 lat </span>
+        <br />
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+
+        </p>
+    }
+</section>

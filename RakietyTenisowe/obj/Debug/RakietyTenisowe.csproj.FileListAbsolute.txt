@@ -1,0 +1,1176 @@
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+E:\Pliki\Visual Studio Projects\Projects\C#\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Piotr\Desktop\RakietyTenisowe\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.pdb
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Antlr3.Runtime.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Newtonsoft.Json.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Spatial.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Helpers.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.OData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Mvc.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Optimization.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Razor.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebGrease.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.Data.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.WebData.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Newtonsoft.Json.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Helpers.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Mvc.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Razor.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.Data.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.WebData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.OData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Spatial.xml
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+F:\Dropbox\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol3\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol3R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Witold\Desktop\RakietyTenisoweVol4\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Piotr\Dropbox\Dokumentacja\Narzędzia sztucznej inteligencji\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\RakietyTenisowe.pdb
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Antlr3.Runtime.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Spatial.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Helpers.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Http.OData.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Mvc.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Optimization.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Razor.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebGrease.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.Data.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.WebData.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Helpers.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Mvc.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Razor.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.Data.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\WebMatrix.WebData.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Web.Http.OData.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\System.Spatial.xml
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+C:\Users\Piotr\Desktop\RakietyTenisoweVol4R2\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\RakietyTenisowe.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\RakietyTenisowe.pdb
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Antlr3.Runtime.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\EntityFramework.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Newtonsoft.Json.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Spatial.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Helpers.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Http.OData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Mvc.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Optimization.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Razor.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\WebGrease.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\WebMatrix.Data.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\WebMatrix.WebData.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\EntityFramework.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Newtonsoft.Json.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Helpers.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Mvc.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Razor.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\WebMatrix.Data.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\WebMatrix.WebData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Web.Http.OData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\System.Spatial.xml
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+E:\Doc\INF\Narzędzia sztucznej inteligencji\ćwiczenia\RakietyTenisoweVol5\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\RakietyTenisowe.dll.config
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\RakietyTenisowe.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\RakietyTenisowe.pdb
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Antlr3.Runtime.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.Core.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\EntityFramework.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\EntityFramework.SqlServer.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Data.Edm.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Data.OData.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Web.Infrastructure.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Newtonsoft.Json.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Net.Http.Formatting.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Spatial.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Helpers.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.OData.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.WebHost.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Mvc.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Optimization.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Razor.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.Deployment.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.Razor.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\WebGrease.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\WebMatrix.WebData.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\EntityFramework.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\EntityFramework.SqlServer.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Newtonsoft.Json.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Net.Http.Formatting.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Helpers.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.WebHost.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Mvc.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Razor.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.Deployment.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.WebPages.Razor.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\WebMatrix.Data.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\WebMatrix.WebData.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.AspNet.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.Core.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OAuth.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Web.Http.OData.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Data.Edm.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\Microsoft.Data.OData.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\System.Spatial.xml
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\de\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\es\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\it\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\de\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\es\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\fr\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\it\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ja\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ko\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\ru\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hans\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\bin\zh-Hant\System.Spatial.resources.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\obj\Debug\RakietyTenisowe.csprojResolveAssemblyReference.cache
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\obj\Debug\RakietyTenisowe.dll
+E:\Doc\INF\[1] archiwum\Dropbox\Narzędzia sztucznej inteligencji\RakietyTenisoweFinal\RakietyTenisowe\obj\Debug\RakietyTenisowe.pdb

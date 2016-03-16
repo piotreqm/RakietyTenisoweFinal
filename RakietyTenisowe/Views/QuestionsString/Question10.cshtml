@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Pytanie 10";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+
+    <h1>Naciąg powinien:</h1><br />
+
+    @using (Html.BeginForm("Question10", "QuestionsString"))
+    {
+        @Html.RadioButton("answer", ">")
+        <span>Wolno tracić naprężenie</span>
+        <br/>
+
+        @Html.RadioButton("answer", "<")
+        <span>Zwiększać czucie gry</span>
+        <br/>
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie"/>
+        </p>
+    }
+</section>

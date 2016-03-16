@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F289B82-3F0D-4D1E-B9D9-B8E949FCE289}</ProjectGuid>
+    <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RakietyTenisowe</RootNamespace>
+    <AssemblyName>RakietyTenisowe</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <MvcProjectUpgradeChecked>true</MvcProjectUpgradeChecked>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>12.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Mvc.FixedDisplayModes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.FixedDisplayModes.1.0.0\lib\net40\Microsoft.Web.Mvc.FixedDisplayModes.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.30506.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.4.0.30506.0\lib\net40\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.30506.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.4.0.30506.0\lib\net40\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.0.0\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.2.0.30506.0\lib\net40\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.Data.2.0.30506.0\lib\net40\WebMatrix.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebPages.OAuth, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.OAuth.2.0.30506.0\lib\net40\Microsoft.Web.WebPages.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.WebData, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.WebData.2.0.30506.0\lib\net40\WebMatrix.WebData.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.AspNet.4.1.4.12333\lib\net45-full\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.Core, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.Core.4.1.4.12333\lib\net45-full\DotNetOpenAuth.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth.Consumer, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Consumer.4.1.4.12333\lib\net45-full\DotNetOpenAuth.OAuth.Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Core.4.1.4.12333\lib\net45-full\DotNetOpenAuth.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.Core.4.1.4.12333\lib\net45-full\DotNetOpenAuth.OpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId.RelyingParty, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.RelyingParty.4.1.4.12333\lib\net45-full\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.OData, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.OData.4.0.30506\lib\net40\System.Web.Http.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Edm, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Data.Edm.5.2.0\lib\net40\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Data.OData.5.2.0\lib\net40\Microsoft.Data.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Spatial, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\System.Spatial.5.2.0\lib\net40\System.Spatial.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.3.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.3.0\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AnswerStringController.cs" />
+    <Compile Include="Controllers\AnswerGripController.cs" />
+    <Compile Include="Controllers\AnswerRacquetController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MenuController.cs" />
+    <Compile Include="Controllers\QuestionsGripController.cs" />
+    <Compile Include="Controllers\QuestionsRacquetController.cs" />
+    <Compile Include="Controllers\QuestionsStringController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BazaWiedzyContext.cs" />
+    <Compile Include="Models\Naciag.cs" />
+    <Compile Include="Models\Owijka.cs" />
+    <Compile Include="Models\Questions\DataStorageRacquets.cs" />
+    <Compile Include="Models\RakietaJuniorska.cs" />
+    <Compile Include="Models\RakietaSeniorska.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\BazaWiedzy.mdf" />
+    <Content Include="App_Data\BazaWiedzy_log.ldf">
+      <DependentUpon>BazaWiedzy.mdf</DependentUpon>
+    </Content>
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\prettyPhoto.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.svg" />
+    <Content Include="cssslider_files\csss_engine1\gestures.js" />
+    <Content Include="cssslider_files\csss_engine1\ie.css" />
+    <Content Include="cssslider_files\csss_engine1\ie.js" />
+    <Content Include="cssslider_files\csss_engine1\style.css" />
+    <Content Include="cssslider_files\csss_images1\1.jpg" />
+    <Content Include="cssslider_files\csss_images1\2.jpg" />
+    <Content Include="cssslider_files\csss_images1\3.jpg" />
+    <Content Include="cssslider_files\csss_images1\4.jpg" />
+    <Content Include="cssslider_files\csss_tooltips1\1.jpg" />
+    <Content Include="cssslider_files\csss_tooltips1\2.jpg" />
+    <Content Include="cssslider_files\csss_tooltips1\3.jpg" />
+    <Content Include="cssslider_files\csss_tooltips1\4.jpg" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\fontawesome-webfontba72.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfontba72.eot" />
+    <Content Include="fonts\fontawesome-webfontba72.ttf" />
+    <Content Include="fonts\fontawesome-webfontba72.woff" />
+    <Content Include="fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.eot" />
+    <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.ttf" />
+    <Content Include="cssslider_files\csss_engine1\cs-ctrl-basic.woff" />
+    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\3.jpg" />
+    <Content Include="img\4.jpg" />
+    <Content Include="img\linijka.gif" />
+    <Content Include="img\mierzenie_raczki.jpg" />
+    <Content Include="img\Naciagi\Natural Gut 16.jpg" />
+    <Content Include="img\Naciagi\Natural Gut 17.jpg" />
+    <Content Include="img\Naciagi\NXT 16.jpg" />
+    <Content Include="img\Naciagi\NXT 17.jpg" />
+    <Content Include="img\Naciagi\NXT Control 16.jpg" />
+    <Content Include="img\Naciagi\NXT Duramax 15.jpg" />
+    <Content Include="img\Naciagi\NXT Duramax 16.jpg" />
+    <Content Include="img\Naciagi\NXT Power 16.jpg" />
+    <Content Include="img\Naciagi\NXT Power 17.jpg" />
+    <Content Include="img\Naciagi\NXT Power 18.jpg" />
+    <Content Include="img\Naciagi\Optimus 16.jpg" />
+    <Content Include="img\Naciagi\Revolve 15.jpg" />
+    <Content Include="img\Naciagi\Revolve 16.jpg" />
+    <Content Include="img\Naciagi\Revolve 17.jpg" />
+    <Content Include="img\Naciagi\Sensation 15.jpg" />
+    <Content Include="img\Naciagi\Sensation 16.jpg" />
+    <Content Include="img\Naciagi\Sensation 17.jpg" />
+    <Content Include="img\Naciagi\Sensation Control 16.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Control 16.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Control 17.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Duramax 16.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Duramax 17.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Power 15.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Power 16.jpg" />
+    <Content Include="img\Naciagi\Synthetic Gut Power 17.jpg" />
+    <Content Include="img\Owijki\Advantage.jpg" />
+    <Content Include="img\Owijki\Pro Overgrip Perforated.jpg" />
+    <Content Include="img\Owijki\Pro Overgrip Sensation.jpg" />
+    <Content Include="img\Owijki\Pro Overgrip.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Blade 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Blade 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Blade 25.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Blade 26.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Burn 25S.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Burn 26S.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Dora 19.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Dora 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Federer 19.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Federer 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Federer 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Federer 25.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice 24S.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice 25S.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice 26S.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice Pink 19.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice Pink 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice Pink 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Juice Pink 25.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Pro Staff 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Pro Staff 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Spongebob 19.jpg" />
+    <Content Include="img\Rakiety Juniorskie\Spongebob 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\US Open 19.jpg" />
+    <Content Include="img\Rakiety Juniorskie\US Open 21.jpg" />
+    <Content Include="img\Rakiety Juniorskie\US Open 23.jpg" />
+    <Content Include="img\Rakiety Juniorskie\US Open 25.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Blade 104.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Blade 98.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Blade 98S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Burn 100LS.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Burn 100S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Burn 100ULS.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Burn100 Team.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Burn100.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Energy XL.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Enforcer Control 103.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Essence.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Federer Team 105.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Federer.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Five BLX 105.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Five Lite BLX 103.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Hope Lite 105.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Hope.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Hyper Hammer 5.3.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Juice 100.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Juice 100L.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Juice 100S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Juice 100UL.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Juice 108.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Nemesis 100.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Pro Staff 95S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Pro Staff 97LS.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Pro Staff R97 Autograph.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Pro Staff R97.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Six.One 95.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Six.One 95S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Six.Two 100.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Steam 105S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Steam 99S.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Three BLX 113.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Tour Slam.jpg" />
+    <Content Include="img\Rakiety Seniorskie\Triumph.jpg" />
+    <Content Include="img\Rakiety Seniorskie\US Open.jpg" />
+    <Content Include="img\Tennis_pictogram.svg.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.prettyPhoto.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\knockout-2.2.0.debug.js" />
+    <Content Include="Scripts\knockout-2.2.0.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.css" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\Shared\_HomeIndexLayout.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question3.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question2.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question1.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question4.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question5.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question6.cshtml" />
+    <Content Include="Views\QuestionsRacquet\Question7.cshtml" />
+    <Content Include="Views\QuestionsGrip\Question8.cshtml" />
+    <Content Include="Views\QuestionsString\Question9.cshtml" />
+    <Content Include="Views\QuestionsString\Question10.cshtml" />
+    <Content Include="Views\QuestionsRacquet\StartRacquetQuestion.cshtml" />
+    <Content Include="Views\AnswerRacquet\AnswerJunior.cshtml" />
+    <Content Include="Views\QuestionsString\StartStringQuestion.cshtml" />
+    <Content Include="Views\QuestionsGrip\StartGripQuestion.cshtml" />
+    <Content Include="Views\AnswerRacquet\AnswerSeniorNoExp.cshtml" />
+    <Content Include="Views\AnswerRacquet\AnswerSeniorExp.cshtml" />
+    <Content Include="Views\AnswerGrip\AnswerGrip.cshtml" />
+    <Content Include="Views\AnswerString\AnswerString.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Filters\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>62842</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:62842/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

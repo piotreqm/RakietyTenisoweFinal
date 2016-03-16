@@ -1,0 +1,44 @@
+﻿@using RakietyTenisowe.Models.Questions
+@{
+    ViewBag.Title = "Pytanie 5";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>Określ długość twojego zamachu:</h1><br />
+
+    @using (Html.BeginForm("Question5", "QuestionsRacquet"))
+    {
+        if (DataStorageRacquets.questionsAnswers[2] == "300")   //Kobieta
+         {
+             @Html.RadioButton("answer", "250")
+             <span>Krótki</span>
+             <br/>
+
+             @Html.RadioButton("answer", "265")
+             <span>Średni </span>
+             <br/>
+
+             @Html.RadioButton("answer", "280")
+             <span>Długi </span>
+             <br/>
+         }
+        else    //Mężczyzna
+        {
+            @Html.RadioButton("answer", "270")
+            <span>Krótki</span>
+            <br />
+
+            @Html.RadioButton("answer", "285")
+            <span>Średni </span>
+            <br />
+
+            @Html.RadioButton("answer", "300")
+            <span>Długi </span>
+            <br />
+        }
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+
+        </p>
+    }
+</section>

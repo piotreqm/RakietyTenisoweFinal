@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Pytanie 4";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>Jaki rozmiar ma twoja dłoń?</h1>
+    <br />
+
+    @using (Html.BeginForm("Question4", "QuestionsRacquet"))
+    {
+        @Html.RadioButton("answer", "0")
+        <span>4 cale </span>
+        <br />
+
+        @Html.RadioButton("answer", "1")
+        <span>4 1/8 cala </span>
+        <br />
+
+        @Html.RadioButton("answer", "2")
+        <span>4 1/4 cala </span>
+        <br />
+
+        @Html.RadioButton("answer", "3")
+        <span>4 3/8 cala </span>
+        <br />
+
+        @Html.RadioButton("answer", "4")
+        <span>4 1/2 cala </span>
+        <br />
+
+        @Html.RadioButton("answer", "5")
+        <span>4 5/8 cala </span>
+        <br />
+
+        @Html.RadioButton("answer", "6")
+        <span>4 3/4 cala </span>
+        <br />
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+
+        </p>
+
+        <p align="left">
+            <h3> Wskazówka: </h3>
+            Rozmiar dłoni mierzy się w sposób pokazany na zdjęciach:
+            <img src="~/img/mierzenie_raczki.jpg" alt="Jak zmierzyć rozmiar dłoni - przykład 1" />
+            <img src="~/img/linijka.gif" alt="Jak zmierzyć rozmiar dłoni - przykład 2" />
+        </p>
+    }
+</section>

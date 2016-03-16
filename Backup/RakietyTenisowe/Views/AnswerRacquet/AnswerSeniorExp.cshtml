@@ -1,0 +1,71 @@
+﻿@model IEnumerable<RakietyTenisowe.Models.RakietaSeniorska>
+@{
+    ViewBag.Title = "AnswerSeniorExp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+
+    <h1> Rakiety tenisowe odpowiednie dla twojego doświadczenia:</h1>
+    <br />
+
+    <table style="width: 80%; padding-left: 10%; padding-right: 10%">
+        <tr>
+            <th>
+                Nazwa
+            </th>
+            <th>
+                Rozmiar główki
+            </th>
+            <th>
+                Waga
+            </th>
+            <th>
+                Balans
+            </th>
+            <th>
+                Dostępne rozmiary rączki
+            </th>
+            <th style="text-align: center">
+                Zdjęcie
+            </th>
+            <th>
+                Cena
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nazwa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Glowka)"
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Waga)g
+                </td>
+                <td style="text-align: center">
+                    @if (item.Balans < 0)
+                    {
+                        @Html.DisplayFor(modelItem => item.Balans).ToString().Substring(1, item.Balans.ToString().Length - 1)
+                        @Html.Raw("pts HH")
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.Balans)
+                        @Html.Raw("pts HL")
+                    }
+                </td>
+                <td>
+                    G @Html.DisplayFor(modelItem => item.RaczkaMin) - G @Html.DisplayFor(modelItem => item.RaczkaMax)
+                </td>
+                <td style="text-align: center">
+                    <img src="@Url.Content(item.Zdjecie)" alt="Alternate Text" style="height: 250px; width: 250px" />
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.Cena)
+                </td>
+            </tr>
+        }
+    </table>
+</section>

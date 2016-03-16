@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Pytanie 9";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+
+    <h1>Od naciągu oczekujesz:</h1><br />
+
+    @using (Html.BeginForm("Question9", "QuestionsString"))
+    {
+        @Html.RadioButton("answer", "Power")
+        <span>Mocy</span>
+        <br/>
+        @Html.RadioButton("answer", "Spin")
+        <span>Rotacji</span>
+        <br/>
+
+        @Html.RadioButton("answer", "Control")
+        <span>Kontroli</span>
+        <br/>
+
+        @Html.RadioButton("answer", "Comfort")
+        <span>Komfortu</span>
+        <br/>
+
+        @Html.RadioButton("answer", "Durability")
+        <span>Wytrzymałości</span>
+        <br/>
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie"/>
+        </p>
+    }
+</section>

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Pytanie 1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <h1>Jakie jest twoje doświadczenie tenisowe?</h1><br />
+
+    @using (Html.BeginForm("Question1", "QuestionsRacquet"))
+    {
+
+        @Html.RadioButton("answer", "106")
+        <span>Zaczynam</span>
+        <br />
+
+        @Html.RadioButton("answer", "101")
+        <span>Gram rekreacyjnie</span>
+        <br />
+        @Html.RadioButton("answer", "96")
+        <span>Gram amatorsko</span>
+        <br />
+        @Html.RadioButton("answer", "91")
+        <span>Gram zawodowo</span>
+        <br />
+
+        <p align="left" style="padding-left: 20%">
+            <input type="submit" value="Następne pytanie" />
+
+        </p>
+    }
+</section>
